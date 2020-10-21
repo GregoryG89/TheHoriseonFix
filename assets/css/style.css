@@ -51,7 +51,8 @@ a {
     background-position: center;
 }
 
-.float-left {
+.float-left /* tried to do something with the floats but ultimately i think this is best solution to leave these 2 */
+{
     float: left;
     margin-right: 25px;
 }
